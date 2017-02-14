@@ -7,6 +7,8 @@ in which the participant performed the exercise. This exercise was done in 5 dif
 
 The markdown document contained in this repository contains the code and output for the assignment, including the predicted values on the test data.
 
+The markdown document contained in this gh-pages section of this repository contains the code and output for the assignment, including the predicted values on the test data.
 
+The compiled HTML code can be found at :https://youngie16.github.io/PracticalMachineLearning/
 #
 
